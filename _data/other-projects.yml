@@ -18,7 +18,7 @@
 - name: Digikala Dataset Analysis
   url: 
   code: 
-  description: Preprocessing, clustering, classification of Digikala’s user and transaction dataset
+  description: Preprocessing, clustering, classification of Digikala’s user and transaction dataset as Funamentals of Data Mining's course project
   used:
     - thing: Python
     - thing: Pandas
