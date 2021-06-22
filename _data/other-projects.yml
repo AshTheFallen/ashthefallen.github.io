@@ -1,3 +1,15 @@
+- name: Anomaly Detection in Power Consumption Data
+  url: 
+  code: 
+  description: My current main project. Researching and Developing methods to detect anomalous behaviour in power consumption data using Machine Learning
+  used:
+    - thing: Python
+    - thing: Pandas
+    - thing: Keras
+    - thing: Machine Learning
+    - thing: Skit-learn
+    - thing: Numpy
+
 - name: Micoservice Arctitecture Pattern Generation and Detection
   url: 
   code: 
