@@ -1027,7 +1027,7 @@ strong {
 
 .other-projects .project__name {
     margin-bottom: 10px;
-    overflow: scroll
+    overflow-wrap: break-word;
 }
 
 .other-projects .project p {
