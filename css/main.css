@@ -1025,8 +1025,11 @@ strong {
     margin-bottom: 50px
 }
 
-.other-projects .project__name {
+.other-projects .project__name {   
     margin-bottom: 10px;
+}
+
+.other-projects .project__name a {  
     overflow-wrap: break-word;
 }
 
