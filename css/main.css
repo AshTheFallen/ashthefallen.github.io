@@ -1022,7 +1022,8 @@ strong {
 
 .other-projects .project {
     max-width: 600px;
-    margin-bottom: 50px
+    margin-bottom: 50px;
+    overflow-wrap: break-word;
 }
 
 .other-projects .project__name {   
