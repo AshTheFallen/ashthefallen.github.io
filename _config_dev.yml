@@ -5,7 +5,7 @@ description: Computer Science Student focused on advancing Machine Learning and 
 url: https://ashthefallen.github.io/
 baseurl: ''
 email: ash.shahrestani@gmail.com
-cover: https://bchiang7.github.io/img/og.png
+cover: https://ashthefallen.github.io/img/og.png
 logo: https://ashthefallen.github.io/img/emojis/alienmonster.png
 resume: https://ashthefallen.github.io/resume.pdf
 social:
@@ -17,6 +17,8 @@ social:
     url: https://github.com/ashthefallen
   - title: linkedin
     url: https://www.linkedin.com/in/afshin-shahrestani/
+  - title: scholar
+    url: https://scholar.google.com/citations?user=cDgIzQMAAAAJ&hl=en  
 
 # Build settings
 markdown: kramdown
