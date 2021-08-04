@@ -10,7 +10,7 @@ frameworks:
   - item: Pandas
   - item: Keras
   - item: Skit-learn
-  - item: DASK
+  - item: Transformers
   - item: PySpark
   - item: Flutter
 

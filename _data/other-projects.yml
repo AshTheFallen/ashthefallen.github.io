@@ -10,6 +10,37 @@
     - thing: Skit-learn
     - thing: Numpy
 
+- name: Digikala Dataset Analysis
+  url: 
+  code: 
+  description: Preprocessing, clustering, classification of Digikala’s user and transaction dataset as Funamentals of Data Mining's course project
+  used:
+    - thing: Python
+    - thing: Pandas
+    - thing: Data Mining
+
+- name: Multilingual Hate Speech Detection
+  url: 
+  code: 
+  description: Preprocessing and Classifying tweets containting hate speech using a feed-forward neural network and word embeddings
+  used:
+    - thing: Python 
+    - thing: Pandas
+    - thing: Transformers
+    - thing: NLTK
+    - thing: Deep Learning
+    - thing: NLP
+
+- name: CIFAR-10 Images classification
+  url: https://colab.research.google.com/drive/1vayR20_8gs0RtTloiHD7KaxFsIIvyJu1?usp=sharing
+  code: 
+  description: Classifying CIFAR-10 images using CNN as part of a Tensorflow course
+  used:
+    - thing: Python 
+    - thing: Pandas
+    - thing: Keras
+    - thing: Deep Learning
+ 
 - name: Micoservice Arctitecture Pattern Generation and Detection
   url: 
   code: 
@@ -27,13 +58,7 @@
     - thing: Dart
     - thing: Flutter
 
-- name: Digikala Dataset Analysis
-  url: 
-  code: 
-  description: Preprocessing, clustering, classification of Digikala’s user and transaction dataset as Funamentals of Data Mining's course project
-  used:
-    - thing: Python
-    - thing: Pandas
+
 
 # - name: Lonely Planet DBMS
 #   url: https://github.com/bchiang7/CS3200-Project
