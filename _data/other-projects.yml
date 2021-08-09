@@ -40,6 +40,17 @@
     - thing: Pandas
     - thing: Keras
     - thing: Deep Learning
+
+- name: Hugging Face Transformers and NLP course
+  url: https://colab.research.google.com/drive/1biyIj1Gvwk4aBRkZlqONuGeFXeAJc6Tj?usp=sharing
+  code: 
+  description: Testing out different models and transformers in the Hugging Face's Transformers library on various datasets
+  used:
+    - thing: Python 
+    - thing: Transformers
+    - thing: Keras
+    - thing: NLP
+    - thing: Deep Learning
  
 - name: Micoservice Arctitecture Pattern Generation and Detection
   url: 
