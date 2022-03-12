@@ -1,7 +1,43 @@
+- name: Deep Reinforcement Learning on Gym Environments
+  url: 
+  code: 
+  description: Tested different deep reinforcement learning algorithms such as DQN, PPO, A2C, and TD3, both from written from scratch and with packages on different environments like Cart-polem Lunar Lander and Mountain Car, Wrote custom envronments using TF-Agents and Gym environments.
+  used:
+    - thing: Python
+    - thing: Pandas
+    - thing: Skit-learn
+    - thing: Stable-baselines3
+    - thing: Gym
+    - thing: TensorFlow
+    - thing: TF-Agents
+    - thing: Numpy
+
+- name: Reinforcement Learning on Gym Environments
+  url: 
+  code: 
+  description: Tested different reinforcement learning algorithms such as tempral differencing, q-learning, sarsa, HMMs and Mote Carlo, on different environments like Grid World, Cart-pole and Mountain Car
+  used:
+    - thing: Python
+    - thing: Pandas
+    - thing: Skit-learn
+    - thing: Numpy
+
+- name: Missing Value Imputation in Time-series data
+  url: 
+  code: 
+  description: Researching and Testing more than 10 different available methods in time-series data imputation. Developing methods to answer the issues present in the previosuly used methods with Machine and Deep Learning
+  used:
+    - thing: Python
+    - thing: Pandas
+    - thing: Keras
+    - thing: Machine Learning
+    - thing: Skit-learn
+    - thing: Numpy
+
 - name: Anomaly Detection in Power Consumption Data
   url: 
   code: 
-  description: My current main project. Researching and Developing methods to detect anomalous behaviour in power consumption data using Machine Learning
+  description: Researching and Developing methods to detect anomalous behaviour in power consumption data using Machine Learning
   used:
     - thing: Python
     - thing: Pandas
