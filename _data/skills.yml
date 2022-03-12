@@ -1,23 +1,22 @@
 languages:
   - item: Python
   - item: Java
-  - item: Dart
-  - item: JavaScript
   - item: C
   - item: SQL
 
 frameworks:
   - item: Pandas
   - item: Keras
+  - item: TensorFlow
+  - item: PyTorch
+  - item: Stable-baselines3
+  - item: TF-Agents
   - item: Skit-learn
   - item: Transformers
-  - item: PySpark
-  - item: Flutter
 
 tools:
   - item: Bash
   - item: Git, Gitlab & Github
-  - item: AdobeXD
   - item: Postman
   - item: MongoDB
 
